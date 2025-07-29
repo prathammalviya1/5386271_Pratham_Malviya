@@ -1,5 +1,4 @@
 # 5386271_Pratham_Malviya
-# 5386271_Pratham_Malviya
 
 ## 🎓 Certificates
 
