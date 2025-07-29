@@ -3,9 +3,9 @@
 ## 🎓 Certificates
 
 ### 🟠 Simplilearn
-![Simplilearn Certificate](SimpliLearn.jpg.jpg)
+![Simpli Learn Certificate](SimpliLearn.jpg.jpg)
 
 ### 🟢 Great Learning
-![Great Learning Certificate](GreatLearning.png)
+![Great Learning Course info](GreatLearning.png)
 
 
