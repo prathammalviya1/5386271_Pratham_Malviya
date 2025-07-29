@@ -3,7 +3,6 @@
 ## 🎓 Certificates
 
 ### 🟠 Simplilearn
-![Simplilearn Certificate](### 🟠 Simplilearn
 ![Simplilearn Certificate](SimpliLearn.jpg.jpg)
 
 ### 🟢 Great Learning
