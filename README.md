@@ -1,7 +1,7 @@
 ## 🎓 Certificates
 
 ### 🟠 Simplilearn
-![Simpli Learn Certificate](SimliLearn.jpg)
+![Simpli Learn Certificate](SimpliLearn.jpg)
 
 ### 🟢 Great Learning
 ![Great Learning Course info](GreatLearning.png)
