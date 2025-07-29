@@ -4,7 +4,7 @@
 
 ### 🟠 Simplilearn
 ![Simplilearn Certificate](### 🟠 Simplilearn
-![Simplilearn Certificate](simpliLearn.jpg.jpg)
+![Simplilearn Certificate](SimpliLearn.jpg.jpg)
 
 ### 🟢 Great Learning
 ![Great Learning Certificate](GreatLearning.png)
