@@ -3,6 +3,9 @@
 
 ## 🎓 Certificates
 
+### 🟢 Solo Learn Certificate
+![Solo Learn Certificate](SoloLearn.jpg)
+
 ### 🟢 Simpli Learn Certificate
 ![Simpli Learn Certificate](SimpliLearn.jpg)
 
