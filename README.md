@@ -3,13 +3,16 @@
 
 ## 🎓 Certificates
 
-### 🟢 Solo Learn Certificate
+### 🟢 Solo Learn C Intermediate Certificate
+![Solo Learn Certificate](c_intermediate.jpg)
+
+### 🟢 Solo Learn C beginner Certificate
 ![Solo Learn Certificate](soloLearn.jpg)
 
-### 🟢 Simpli Learn Certificate
+### 🟢 Simpli Learn GIT Certificate
 ![Simpli Learn Certificate](SimpliLearn.jpg)
 
-### 🟠 Great Learning Course Info
+### 🟠 Great Learning SDLC Course Info
 ![Great Learning Course info](GreatLearning.png)
 
 
