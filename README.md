@@ -1,11 +1,19 @@
+
+# 5386271_Pratham_Malviya
+
 ## 🎓 Certificates
 
+### 🟢 Solo Learn: C Intermediate Certificate
+![Solo Learn Certificate](c_intermediate.jpg)
 
-### 🟢 Solo Learn Certificate
+### 🟢 Solo Learn: Introduction to C Certificate
 ![Solo Learn Certificate](soloLearn.jpg)
 
-### 🟢 Simpli Learn Certificate
+### 🟢 Simpli Learn: GIT Certificate
 ![Simpli Learn Certificate](SimpliLearn.jpg)
 
-### 🟠 Great Learning Course info
+### 🟠 Great Learning: SDLC Course Info
 ![Great Learning Course info](GreatLearning.png)
+
+
+
