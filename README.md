@@ -7,13 +7,13 @@
 ![Solo Learn Certificate](Certificates/SimpliLearn.jpg)
 
 ### 🟢 Solo Learn: Introduction to C Certificate
-![Solo Learn Certificate](soloLearn.jpg)
+![Solo Learn Certificate](Certificates/soloLearn.jpg)
 
 ### 🟢 Simpli Learn: GIT Certificate
-![Simpli Learn Certificate](SimpliLearn.jpg)
+![Simpli Learn Certificate](Certificates/SimpliLearn.jpg)
 
 ### 🟠 Great Learning: SDLC Course Info
-![Great Learning Course info](GreatLearning.png)
+![Great Learning Course info](Certificates/GreatLearning.png)
 
 
 
