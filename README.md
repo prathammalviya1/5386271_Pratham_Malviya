@@ -4,7 +4,7 @@
 ## 🎓 Certificates
 
 ### 🟢 Solo Learn: C Intermediate Certificate
-![Solo Learn Certificate](c_intermediate.jpg)
+![Solo Learn Certificate](Certificates/SimpliLearn.jpg)
 
 ### 🟢 Solo Learn: Introduction to C Certificate
 ![Solo Learn Certificate](soloLearn.jpg)
